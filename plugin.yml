@@ -1,13 +1,13 @@
 name: CellPE
 main: Bajan\CellPE\CellPE
 version: 2.0.0
-api: [3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA9]
+api: [3.0.09]
 load: POSTWORLD
 authors: [Bajan, updated by VMPE Development Team]
 description: 'Cell plugin for PocketMine'
 commands:
   cell:
-    description: 'CellPE main command'
+    description: 'Cells main command'
 permissions:
   cell.help.op:
     description: 'Permission to get the OP help page'
